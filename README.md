@@ -12,15 +12,16 @@ By completing this challenge you will practice and master the following skills:
 * Defining re-usable functions that take in parameters and return data
 * Programmatically processing, filtering, and organizing textual data
 * Accessing a public data API
-* Analyzing, interpreting, and visualizing data with _SciPy, Pandas, Bokeh, Matplotlib_.
+* Analyzing, interpreting, and visualizing data with __SciPy, Pandas, Bokeh, Matplotlib__.
 
 ### Instructions
 1. Clone this repository. 
-2. Download Twitter Data using _"twitter_stream.py"_ file in the terminal. Rember to input your own token.
-3. Save the data printed in the terminal to .txt files, and put it in the _"data"_ folder. Notice the original 3 .txt files are there for illustration purpose.
-4.  
+2. Download Twitter Data using __"twitter_stream.py"__ file in the terminal. Rember to input your own token.
+3. Save the data printed in the terminal to .txt files, and put it in the __"data"__ folder. Notice the original 3 .txt files are there for illustration purpose.
+4. Use Jupyter Notebook to open the __"Tweet_Sentiments_Analysis.ipynb"__. I have provided several data analysis and visualization strategies for your reference. 
+5. Feel free to explore on your own researches and enjoy.
 
-
+Please feel free to reach out to me if you have any suggestions.
 
 
 _Based on assignments by Joel Ross, John DeNero, Aditi Muralidharan, et al., and Bill Howe._ 
