@@ -1,4 +1,9 @@
 ## Twitter-Sentiment-Analysis
+This is the final assignment for the DAMG6105 course. 
+
+### Collaboration
+My collaborator for the project is Zhengrui Lu. We provided our own framework for the project. However, We both conbributed to the whole project idea and the final presentations, and did code reviews together.
+
 ### Project Description
 Social networks are a fascinating domains for applying concepts from data science and visualization. Not only are they sources of **big** "big data" (about 500 million tweets are sent on Twitter each _day_), but their status as personal communities means that they often can provide profound insights into how people think, feel, and interact. For example, researchers have shown that the "mood" of Twitter communication [reflects biological rhythms](http://www.nytimes.com/2011/09/30/science/30twitter.html) and can even be used to [predict the stock market](http://arxiv.org/pdf/1010.3003&embedded=true).
 
